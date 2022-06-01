@@ -18,6 +18,7 @@ public class img {
 	public static void main(String[]args) {
 		img i=new img();
 		i.fstfloor();
+		i.studentsdata();
 
 	}
 
